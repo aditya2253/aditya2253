@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aditya2253
+- 👋 Hi, I’m Aditya Khurana
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++ language
 
